@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Hadoken.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Hadoken.cs" Line="15" Column="37" />
+      <File FileName="Assets\Scripts\FighterStateBehavior.cs" Line="23" Column="32" />
+      <File FileName="Assets\Scripts\HadokenStateBehavior.cs" Line="12" Column="63" />
+      <File FileName="Assets\Scripts\Fighter.cs" Line="21" Column="58" />
+      <File FileName="Assets\Scripts\DualCamera.cs" Line="12" Column="112" />
+      <File FileName="Assets\Scripts\FighterStates.cs" Line="5" Column="102" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
